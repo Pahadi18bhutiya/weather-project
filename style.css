@@ -1,0 +1,21 @@
+.body{
+    /* background-color: black; */
+    background-image: 
+    url(bg1.jpg);
+    text-align: center;
+    display: flex;
+}
+#first{
+    padding-left: 40%;
+    padding-top: 20%;
+}
+#second{
+    display: none;
+}
+.card{
+    background-color: transparent !important;
+    margin-top: 20%;
+    font-family: 'Protest Revolution', sans-serif;
+font-family: 'Roboto', sans-serif;
+    color:#ffffff !important;
+}
